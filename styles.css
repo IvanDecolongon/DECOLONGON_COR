@@ -1,0 +1,329 @@
+header {
+    text-align: center;
+    line-height: 0%;
+}
+
+.university-logo {
+    float: left;
+    max-width: 100px;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.normal{
+    font-weight: normal;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.certificate {
+    padding: 40px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.university-info {
+    line-height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.certificate-title {
+    font-size: 24px;
+    letter-spacing: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.registration {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.red-text {
+    color: #800000;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 20px;
+}
+
+.student-gen-info{
+    text-align:center;
+    justify-content: center;
+    background-color: rgb(204,204,255);
+    border: 1px solid;
+    border-bottom: 0px;
+}
+
+table{
+    font-size: small;
+    font-weight: bolder;
+    height: auto;
+    width: 100%;
+    border: 1px solid;
+    text-align: left;
+    justify-content: right;
+    border-bottom: 1px;
+}
+
+.sub-sched-info{
+    background-color: rgb(204,204,255);
+    border: 1px solid;
+    border-top: 0px;
+}
+
+.space{
+    letter-spacing: 5px;
+}
+
+#unit{
+    font-size: 12px;
+    letter-spacing: 10px;
+    padding-left: 30%;
+}
+
+.faculty-sign {
+    position: absolute;
+    width: 10%;
+    border-top: 1px solid black;
+}
+
+.sub-sched-details{
+    font-weight: normal;
+    text-align: left;
+    border: 1px solid;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+.nested-table {
+    width: 45%;
+}
+
+.assesed_fees {
+    background-color: rgb(204,204,255);
+    font-weight:bolder;
+    letter-spacing: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.unit {
+    text-align:center;
+    justify-content: center;
+}
+
+.total-units {
+    font-weight: bolder;
+    padding-left: 65%;
+}
+
+.unit-num {
+    font-weight: bolder;
+}
+
+.blank-space {
+    border-style: solid;
+    padding: 5px;
+    border-top: 0px;
+}
+
+.fees-table{
+    padding: 10px;
+}
+
+.data-table-a{
+    width: 80%;
+    background-color: rgb(204,204,255); 
+    border-width: 1px 1px 0px 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.assessed-fees {
+    text-align: center;
+    letter-spacing: 0.4em;
+    font-size: small;
+    font-weight: 800;
+}
+
+.data-table-b{
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.data-table-c{
+    width: 80%;
+}
+
+.data-table-d{
+    width: 80%;
+}
+
+.align-a{
+    text-align: left;
+    font-weight: normal;
+}
+
+.align-b{
+    text-align: right;
+    font-weight: normal;
+}
+
+.align-b-1{
+    text-align: right;
+    font-weight: bolder;
+}
+
+.align-b-2{
+    text-align: right;
+    padding-left: 0;
+}
+
+.refund{
+    width: 50%;
+    font-style: italic;
+    font-weight: normal;
+    text-align: left;
+    padding: 100px;
+    justify-content: center;
+    padding-bottom: 190px;
+}
+
+.ror{
+    padding-left: 40%;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ror-font-a{
+    width: 100%;
+    padding-left: 10%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ror-font-b{
+    width: 100%;
+    padding-left: 15%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.note-border-ekis{
+    border-top: 0px;
+}
+
+.note{
+    font-size: 12px;
+}
+
+.sop{
+    width: 80%;
+    background-color: rgb(204,204,255); 
+    border-width: 1px 1px 0px 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    letter-spacing: 0.5em;
+    font-size: smaller;
+    font-weight: 800;
+}
+
+.pay{
+    width: 80%;
+    border-collapse: collapse;
+}
+
+.pay td{
+    font-weight: bold;
+    text-align: right;
+    padding-right: 10px;
+    border: 1px solid #000;
+}
+
+.recit-val-date{
+    padding-right: 60%;
+    border-width: 0px 0px 0px 0px;
+    padding-top: 100px;
+    border-style: solid;
+    border-color: black;
+}
+
+.under-line{
+    text-align: center;
+    position: absolute;
+    width: 16%;
+    border-bottom: 1px solid black;
+}
+
+.receipt-pay-date{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1px;
+}
+
+.app-sign-a{
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: black;  
+    text-align: center;
+    border-top: 0px;
+    border-bottom: 0px;
+    padding-left: 10%;
+}
+
+.app-sign-b{
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: black;  
+    text-align: center;
+    padding-right: 20%;
+    padding-bottom: 10%;
+    padding-left: 60%;
+}
+
+.under-line-reg{
+    text-align: center;  
+    border-top: 1px solid black;
+    width: 30%;
+}
+
+.date-print{
+    text-align: right;
+    font-weight: normal;
+    font-size: 10px;
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.keep-cert{
+    width: 100%;
+    background-color: rgb(204,204,255); 
+    border-width: 1px 1px 1px 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    font-weight: bold;
+    line-height: 8px;
+}
+
+
+
+
+
+
